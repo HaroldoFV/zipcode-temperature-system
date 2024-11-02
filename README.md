@@ -38,7 +38,7 @@ e [ViaCEP](https://viacep.com.br/) para buscar dados de localização.
     docker-compose up --build
     ```
 
-2. A aplicação estará disponível em `http://localhost:8000`.
+2. A aplicação estará disponível em `http://localhost:8080`.
 
 3. **Endpoints Disponíveis**:
     - **GET** `/temperature/{cep}`: Retorna a temperatura atual de uma cidade baseada no CEP.
