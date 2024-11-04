@@ -62,5 +62,5 @@ docker-compose run tests
 Isso executará os testes de cobertura e exibirá os resultados no terminal.
 
 
-## Aplicação disponível em:
+## Aplicação disponível no Google Cloud:
 https://zipcode-temperature-system-ggv2ooifja-uc.a.run.app/swagger/index.html#/default
